@@ -1,4 +1,4 @@
-# finder
+# Torch
 
 A new Flutter project.
 
